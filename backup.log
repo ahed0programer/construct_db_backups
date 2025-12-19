@@ -7,3 +7,13 @@
 [2025-12-19 20:02:02] Backup completed successfully
 [2025-12-19 20:03:18] Backup started
 [2025-12-19 20:03:18] Backup created: backup_repo/2025/12/backup_2025-12-19_20-03-18.sql
+[2025-12-19 20:08:30] ----- Starting Backup Process -----
+[2025-12-19 20:08:30] Cleaning old backups...
+[2025-12-19 20:08:30] Removed old backup (current month): backup_repo/2025/12/backup_2025-12-10_21-37-55.sql
+[2025-12-19 20:08:30] Creating new backup...
+[2025-12-19 20:08:31] Backup created: backup_repo/2025/12/backup_2025-12-19_20-08-30.sql
+[2025-12-19 20:14:46] ----- Starting Backup Process -----
+[2025-12-19 20:14:46] Cleaning old backups...
+[2025-12-19 20:14:46] Removed old backup (current month): backup_repo/2025/12/backup_2025-12-19_19-15-30.sql
+[2025-12-19 20:14:46] Creating new backup...
+[2025-12-19 20:14:46] Backup created: backup_repo/2025/12/backup_2025-12-19_20-14-46.sql
